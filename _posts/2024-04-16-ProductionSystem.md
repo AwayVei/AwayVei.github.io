@@ -63,7 +63,6 @@ def loadRules(filename):
 用内存中的变量定义为特征库，是其初始为空。
 
 ```python
-
 # 特征库列表  
 features = []    
 features.extend(feature.split())   
