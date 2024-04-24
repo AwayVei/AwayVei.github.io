@@ -45,6 +45,7 @@ tags:
 用以下代码读取
 
 ```python
+# 读取规则
 def loadRules(filename):  
     rules = {}  
     with open(filename, 'r', encoding='utf-8') as f:  
@@ -74,6 +75,7 @@ features.extend(feature.split())
 
 ```python
 while True:  
+    # 查找判断
     ruleFound = False  
     for rule_index, rule_content in rules.items():  
         # 如果这条规则已经被找到过，则跳过  
