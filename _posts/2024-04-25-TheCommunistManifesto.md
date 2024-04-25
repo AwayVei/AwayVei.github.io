@@ -1,7 +1,7 @@
 ---
 title:      The Communist Manifesto
 author:     Away
-modify_date:    2024-04-24 22:00:00
+modify_date:    2024-04-25
 tags:
     - Communism
 ---
