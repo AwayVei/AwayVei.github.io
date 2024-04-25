@@ -27,4 +27,4 @@ to be published in the English, French, German, Italian, Flemish and Danish lang
     <center>
         WORKING MEN OF ALL COUNTRIES, UNITE!
     </center>  
-    {{ "{% raw " }}%}<div style="text-align:right;"> – Manifesto of the Communist Party </div>{{ "{% endraw " }}%}
+    <right> – Manifesto of the Communist Party </right>
