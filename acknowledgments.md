@@ -14,9 +14,9 @@ titles:
   zh-Hant : &ZH_HANT  鳴謝
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO       소개
+  ko      : &KO       감사의 말
   ko-KR   : *KO
-  fr      : &FR       À propos
+  fr      : &FR       Remerciements
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
