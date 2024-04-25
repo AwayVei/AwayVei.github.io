@@ -27,6 +27,4 @@ to be published in the English, French, German, Italian, Flemish and Danish lang
     <center>
         WORKING MEN OF ALL COUNTRIES, UNITE!
     </center>  
-    <p>
-        -- Manifesto of the Communist Party
-    <p>
+    <div style="text-align:right;"> – Manifesto of the Communist Party <div>
