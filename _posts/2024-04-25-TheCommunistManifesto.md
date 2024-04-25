@@ -24,7 +24,5 @@ itself.
 
 To this end, Communists of various nationalities have assembled in London, and sketched the following Manifesto,
 to be published in the English, French, German, Italian, Flemish and Danish languages.  
-    <center>
-        WORKING MEN OF ALL COUNTRIES, UNITE!
-    </center> 
-    – Manifesto of the Communist Party
+
+> WORKING MEN OF ALL COUNTRIES, UNITE!
